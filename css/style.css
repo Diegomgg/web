@@ -516,7 +516,7 @@ letter-spacing: 2px;
     width: 21%;
 }
 .box_1 {
-    background: #2fdab8;
+    background: RoyalBlue;
     padding: 15px 22px;
     text-align: center;
 }
@@ -644,7 +644,7 @@ a.simpleCart_empty {
     background-image: linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%), linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%);
 }
 .carousel-indicators {
-    bottom: 78%;
+    bottom: 72%;
 }
 /*-- banner --*/
 /*-- //banner-bottom --*/
@@ -1444,7 +1444,7 @@ position:relative;
 button.w3view-cart {
     outline: none;
     border: none;
-    background: #17c3a2;
+    background: RoyalBlue;
     width: 48px;
     height: 43px;
     font-size: 24px;
@@ -1893,7 +1893,7 @@ color: #545454;
 /*-- //coupons --*/
 /*-- /about --*/
 .page-head_agile_info_w3l {
-    background: url(../images/inner1.jpg) no-repeat center;
+    background: url(../images/d3.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
