@@ -47,7 +47,7 @@ label{
 }
 /*-- header --*/
 .header {
-    background: #000;
+    background: RoyalBlue;
 }
 .header ul li {
     display: inline-block;
@@ -66,7 +66,7 @@ label{
 .header ul li i {
     margin-right: 12px;
     top: 2px;
-    color: #2fdab8;
+    color: white;
 }
 .header-right {
     text-align: right;
@@ -644,7 +644,7 @@ a.simpleCart_empty {
     background-image: linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%), linear-gradient(to bottom, #3acfd5 0%, #3a4ed5 100%);
 }
 .carousel-indicators {
-    bottom: 8%;
+    bottom: 85%;
 }
 /*-- banner --*/
 /*-- //banner-bottom --*/
@@ -791,7 +791,7 @@ ul.social-nav.model-3d-0.footer-social.w3_agile_social.two {
     float: none;
 }
 .footer-left p{
-    color: #737070;
+    color: white;
     line-height: 2em;
     font-size: 14px;
     margin-top: 22px;
@@ -858,7 +858,6 @@ ul.social-nav.model-3d-0.footer-social.w3_agile_social.two {
 	margin:1em 0;
 }
 .w3-address-grid{
-    background: #080808;
     padding: 1em;
 }
 .w3-address-left{
@@ -866,7 +865,7 @@ ul.social-nav.model-3d-0.footer-social.w3_agile_social.two {
 	width:10%;
 }
 .w3-address-left i.fa.fa-phone,.w3-address-left i.fa.fa-envelope,.w3-address-left i.fa.fa-map-marker{
-    color: #FFFFFF;
+    color: white;
     font-size: 1em;
 }
 .w3-address-right{
@@ -883,7 +882,7 @@ ul.social-nav.model-3d-0.footer-social.w3_agile_social.two {
 .w3-address-right p{
     margin: 1em 0 0 0;
     font-size: .9em;
-    color: #565656;
+    color: white;
 }
 .w3-address-right p a{
     color: #2fdab8;
@@ -929,7 +928,6 @@ color: #2fdab8;
 }
 .footer-left h2 a span {
     padding: 0 10px;
-    background: #2fdab8;
     font-weight: 600;
 }
 /*-- //footer --*/
@@ -1827,7 +1825,7 @@ ul.multi-column-dropdown li a:hover{
 }
 .w3layouts_mail_grid_left2 h3{
     font-size: 0.9em;
-    color: #2fdab8;
+    color: RoyalBlue;
     margin: 0em 0 0.5em;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -1861,7 +1859,7 @@ color: #545454;
   box-shadow: 0 0 1px transparent;
   position: relative;
   overflow: hidden;
-  background: #111;
+  background: RoyalBlue;
   -webkit-transition-property: color;
   transition-property: color;
   -webkit-transition-duration: 0.3s;
