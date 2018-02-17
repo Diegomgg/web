@@ -224,7 +224,7 @@ li.share {
     text-align: center;
 }
 .logo_agile span {
-    background: #000;
+    background: RoyalBlue;
     padding: 0 17px;
     font-weight: bold;
     color: #fff;
@@ -342,7 +342,7 @@ i.fa.fa-shopping-bag.top_logo_agile_bag {
 /*-- //header-bot --*/
 /*-- banner-top --*/
 .ban-top{
-	background:#000;
+	background:RoyalBlue;
     padding: 0px 0;
 }
 .dropdown-menu.columns-3 {
@@ -591,7 +591,7 @@ a.simpleCart_empty {
 } 
 .carousel-caption h2 span, .carousel-caption h3 span{
     font-weight: 800;
-    color: #2fdab8;
+    color: RoyalBlue;
 }
 .carousel-caption p {
     letter-spacing: 12px;
@@ -781,7 +781,7 @@ figure.effect-roxy:hover p,.agileinfo_banner_bottom_grid_three_left:hover figcap
 /*-- footer --*/
 .footer{
     padding: 4em 0;
-    background: #000;
+    background: RoyalBLue;
 }
 .footer_agile_inner_info_w3l {
     width: 90%;
@@ -1253,12 +1253,12 @@ position:relative;
   backface-visibility: hidden;
   -moz-osx-font-smoothing: grayscale;
   position: relative;
-  background: #2fdab8;
+  background: RoyalBlue;
 }
 .hvr-outline-out:before {
   content: '';
   position: absolute;
-  border: #2fdab8 solid 4px;
+  border: RoyalBlue solid 4px;
   top: 0;
   right: 0;
   bottom: 0;
@@ -1875,7 +1875,7 @@ color: #545454;
   left: 0;
   right: 0;
   bottom: 0;
-  background:#2fdab8;
+  background:RoyalBlue;
   -webkit-transform: scale(0);
   transform: scale(0);
   -webkit-transition-property: transform;
@@ -4168,7 +4168,7 @@ p.w3ls_para {
 		font-size: 14px;
 	}
 	.hvr-outline-out:before {
-		border: #2fdab8 solid 2px;
+		border: RoyalBlue solid 2px;
 	}
 	.hvr-outline-out:hover:before, .hvr-outline-out:focus:before, .hvr-outline-out:active:before {
 		top: -6px;
@@ -4435,7 +4435,7 @@ p.w3ls_para {
 		left: -8px;
 	}
 	.hvr-outline-out:before {
-		border: #2fdab8 solid 4px;
+		border: RoyalBlue solid 4px;
 	}
 	.new-gd-middle {
 		width: 100%;
