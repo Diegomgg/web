@@ -106,6 +106,16 @@ label{
     -o-transition: 0.5s;
     transition: 0.5s;
 }
+#page-content-wrapper {
+    width: 100%;
+    position: absolute;
+    padding: 10px;
+}
+
+#wrapper.toggled #page-content-wrapper {
+    position: absolute;
+    margin-left:-250px;
+}
 .model-3d-0 a {
     background:#5C5B5B;
     -webkit-transform-style: preserve-3d;
